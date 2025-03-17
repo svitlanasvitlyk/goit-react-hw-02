@@ -1,0 +1,16 @@
+.list {
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.text {
+  color: black;
+  font-family: Roboto;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px; /* 111.111% */
+  letter-spacing: 0.72px;
+  margin-bottom: 14px;
+  text-align: left;
+  text-transform: capitalize;
+}
