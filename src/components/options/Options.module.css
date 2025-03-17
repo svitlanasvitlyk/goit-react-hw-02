@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.button {
+  background-color: grey;
+  color: black;
+  display: block;
+  border: 1px solid black;
+  border-radius: 4px;
+  text-transform: capitalize;
+}
